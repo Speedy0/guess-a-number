@@ -3,7 +3,7 @@
 import random 
 
 WORDS = [   # TODO: add more words
-	'home',
+	'house',
 	'mom',
 	'love',
 	'dream',
