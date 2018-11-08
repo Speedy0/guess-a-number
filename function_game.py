@@ -3,11 +3,11 @@
 import random 
 
 WORDS = [   # TODO: add more words
-	'дом',
-	'мама',
-	'любовь',
-	'мечта',
-	'девушка'
+	'home',
+	'mom',
+	'love',
+	'dream',
+	'girl'
 ]
 
 MAX_ERRORS = 10
